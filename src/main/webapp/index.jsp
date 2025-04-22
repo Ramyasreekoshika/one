@@ -11,7 +11,7 @@
   <header class="hero">
     <div class="hero-content">
       <h1>Welcome to Devops Nexus integrated it with webhook</h1>
-      <p>Transforming spaces into your dream home</p>
+      <p>Transforming spaces into your home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
   </header>
